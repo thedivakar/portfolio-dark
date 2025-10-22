@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { RevealOnScroll } from "../RevealOnScroll";
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export const Contact = () => {
