@@ -48,14 +48,3 @@ your-portfolio/
 - **Components:** Edit individual components in the `src/components/` folder to update content or styling.
 - **Sections:** Update content in the `src/components/sections/` directory to showcase your personal projects, about info, and contact details.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with improvements.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Happy coding and enjoy building your professional portfolio!
